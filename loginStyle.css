@@ -1,0 +1,93 @@
+.login-form {
+	width: 350px;
+	height: 564px;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	align-items: center;
+	color: #999;
+	border: 1px solid #999;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+	background-color: #fff;
+}
+h1 {
+	color: black;
+}
+.optional-border {
+	display: flex;
+	padding: 10px;
+}
+.line1 {
+	width: 107px;
+	padding: 10px;
+	padding-top: 0;
+}
+input {
+	width: 250px;
+	padding: 10px;
+	margin-bottom: 10px;
+	outline: none;
+	border-radius: 3px;
+	border-width: thin;
+	color: #c5c5c5;
+	background: #fff;
+}
+
+.fa-facebook-square {
+	padding-right: 5px;
+
+}
+a {
+	text-decoration: none;
+	color: #777;
+}
+h2{
+	color: #c5c5c5;
+	font-size: 15px;
+}
+p {
+	font-size: 15px;
+}
+button {
+	background: #3897f0;
+	color: #FFF;
+	width: 280px;
+	padding: 6px;
+	outline: none;
+	border-radius: 5px;
+}
+.check-acc {
+	width: 350px;
+	height: 50px;
+	text-align: center;
+	border: 1px solid  #999;
+	background: #fff;
+}
+.check-acc a{
+	color: #3897f0;
+	font-family: sans-serif;
+	padding: 15px;
+	font-size: 13px;
+}
+.nav-right {
+	width: 350px;
+}
+.gettting-app p {
+	text-align: center;
+}
+.brand {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	padding: 0 23px 0 23px;
+	color: #fff;
+}
+.Apple , .Android {
+	background: black;
+	padding: 10px;
+	width: 100px;
+	text-align: center;
+	border-radius: 3px;
+	cursor: pointer;
+}
