@@ -1,0 +1,23 @@
+.menu-bar {
+ 	display: flex;
+ 	justify-content: space-between;
+ 	align-items: center;
+ 	font-size: 12px;
+ 	font-family: sans-serif;
+}
+.menu-bar ul {
+	width: 70%;
+	list-style: none;
+	display: flex;
+	justify-content: space-around;
+}
+.menu-bar ul li {
+	color: #3897f0;
+}
+.copyright {
+	font-weight: bold;
+	color: #999;
+}
+.menu-bar ul li a{
+	text-decoration: none;
+}
