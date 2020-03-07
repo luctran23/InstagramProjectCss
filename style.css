@@ -1,0 +1,21 @@
+.container {
+	background: #fafafa;
+}
+.main {
+	width: 1200px;
+	margin: 0 auto;
+}
+.nav-top {
+	display: flex;
+	justify-content: space-between;
+}
+.nav-right {
+	margin-right: 150px;
+}
+.nav-bottom {
+	margin-top: 50px;
+
+}
+.nav-bottom a{
+	color: blue;
+}
